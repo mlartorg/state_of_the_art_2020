@@ -1,4 +1,6 @@
-# NeRF-W Project Website
+# machine learning art online gallery
+
+original code from https://github.com/nerf-w/nerf-w.github.io 
 
 ## Adding videos
 
