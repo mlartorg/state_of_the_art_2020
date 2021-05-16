@@ -1,4 +1,5 @@
 # machine learning art online gallery
+## made for https://fest.ai/2020/
 
 original code from https://github.com/nerf-w/nerf-w.github.io 
 
